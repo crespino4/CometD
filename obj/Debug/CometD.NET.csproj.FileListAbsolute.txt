@@ -1,0 +1,10 @@
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/CometD.NET.xml
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/CometD.NET.dll
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/CometD.NET.pdb
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/CometD.NET.dll.CodeAnalysisLog.xml
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/CometD.NET.dll.lastcodeanalysissucceeded
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/log4net.dll
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/bin/Debug/log4net.xml
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/obj/Debug/CometD.NET.csprojResolveAssemblyReference.cache
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/obj/Debug/CometD.NET.dll
+C:/Users/crespino/Desktop/CometD.NET-master/CometD.NET/obj/Debug/CometD.NET.pdb
